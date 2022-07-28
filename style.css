@@ -7,3 +7,10 @@ body {
     top: 50%;
     bottom: 50% ;
 }
+
+.explore-institute > img{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
